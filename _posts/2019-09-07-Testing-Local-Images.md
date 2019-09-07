@@ -59,6 +59,7 @@ Above is a bar char graph of the top 20 stations with the greatest number of tra
 
 the results above show which days in the week has the highest record of traffic for the first station “34st-Penn STA Station “, in order for the WTWY to get the greatest number of subscribers and possible donations, it makes sense to target stations with the greatest number of traffic.
  
+ ![Image map]({{ site.url }}/images/map.png)
 
 As the map above shows 4 of our top ten stations are also located in the big tech sectors of new York , which gives a higher chance of targeting people working in the tech industry.
 
