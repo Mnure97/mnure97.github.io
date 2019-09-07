@@ -2,7 +2,7 @@
 layout: post
 title: Analysis of New York MTA Turnstile Data
 ---
-![Image logo]({{ site.url }}/images/MTA.png)
+![Image test]({{ site.url }}/images/MTA.png)
 
 Using the turnstile data to find the top twenty subway stations with most traffic to Maximize gala attendance and contribution.
 For our first project in Metis, we worked with New York City MTA Turnstile data to figure out which stations had the greatest number of traffic and suitable dates for each station and locating tech companies near to subway stations 
@@ -19,7 +19,6 @@ WTWY wants us to analyze the MTA data set and give recommendations on which subw
 
 
 •	**Data Cleaning:**
-
 1.	Creating a unique identifier for turnstiles in each station.
 
 2.	Filtering out dates that are not in our scope.
@@ -57,3 +56,8 @@ There are few things we want to implement to improve the project in the future:
 1.	Automate the process of locating the nearest stations to tech companies.
 2.	Explore a larger scope from our data
 3.	Determine the exact hours of the day where station is crowded the most.
+
+
+
+![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
+
