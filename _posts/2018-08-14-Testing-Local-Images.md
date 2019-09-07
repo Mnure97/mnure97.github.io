@@ -33,28 +33,31 @@ we used the turnstile data in 2019 for the month of May, notice that Entries and
 
 
 •	**Data Analysis:**
+
 After cleaning the data and creating the “total traffic” column we were able to start analyzing the data. Below are some graphs that can be used to give recommendations to WomenTechWomenYes(WTWY) on where to deploy their street teams.
 
- ![Image test]({{ site.url }}/images/topst.PNG)
+ ![Image test]({{ site.url }}/images/topst.png)
 Above is a bar char graph of the top 20 stations with the greatest number of traffic for the month of May in 2019.
- ![Image test]({{ site.url }}/images/topdays.PNG)
+ ![Image test]({{ site.url }}/images/topdays.png)
 the results above show which days in the week has the highest record of traffic for the first station “34st-Penn STA Station “, in order for the WTWY to get the greatest number of subscribers and possible donations, it makes sense to target stations with the greatest number of traffic.
  
 
 As the map above shows 4 of our top ten stations are also located in the big tech sectors of new York , which gives a higher chance of targeting people working in the tech industry.
 
 •	**Conclusion:**
+
 For WTWY’s(WomenTechWomenYes) annual gala, we would recommend deploying street teams on 34st-Penn STA Station, 14st-Union SQ, Grand Central-42st, 34st-Herald SQ, 23 ST, Time-Square 42st, 42 ST-Port auth, 86 ST, 125 ST, 96 ST, CANAL ST, and 59st Columbus on the weekdays.
 
 
 
 •	**Further Steps:**
+
 There are few things we want to implement to improve the project in the future:
 1.	Automate the process of locating the nearest stations to tech companies.
 2.	Explore a larger scope from our data
 3.	Determine the exact hours of the day where station is crowded the most.
 
-[This is a link](http://thisismetis.com)
+
 
 ![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
 
