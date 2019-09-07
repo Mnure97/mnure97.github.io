@@ -36,9 +36,9 @@ we used the turnstile data in 2019 for the month of May, notice that Entries and
 
 After cleaning the data and creating the “total traffic” column we were able to start analyzing the data. Below are some graphs that can be used to give recommendations to WomenTechWomenYes(WTWY) on where to deploy their street teams.
 
- ![Image test]({{ site.url }}/images/topst.png)
+ ![Image analysis]({{ site.url }}/images/topst.png)
 Above is a bar char graph of the top 20 stations with the greatest number of traffic for the month of May in 2019.
- ![Image test]({{ site.url }}/images/topdays.png)
+ ![Image analysis2]({{ site.url }}/images/topdays.png)
 the results above show which days in the week has the highest record of traffic for the first station “34st-Penn STA Station “, in order for the WTWY to get the greatest number of subscribers and possible donations, it makes sense to target stations with the greatest number of traffic.
  
 
