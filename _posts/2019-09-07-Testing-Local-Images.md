@@ -19,6 +19,8 @@ WTWY wants us to analyze the MTA data set and give recommendations on which subw
 
 
 •	**Data Cleaning:**
+
+
 1.	Creating a unique identifier for turnstiles in each station.
 
 2.	Filtering out dates that are not in our scope.
@@ -56,8 +58,3 @@ There are few things we want to implement to improve the project in the future:
 1.	Automate the process of locating the nearest stations to tech companies.
 2.	Explore a larger scope from our data
 3.	Determine the exact hours of the day where station is crowded the most.
-
-
-
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
-
