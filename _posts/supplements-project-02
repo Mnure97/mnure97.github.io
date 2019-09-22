@@ -13,7 +13,7 @@ Using linear regression model to predict the ratings of protein powder products.
 Given the range of properties, we will be able to predict the success of the new protein powder product.
 
 
-•	**Data Set**
+•	**Data Set:**
 
 
 Data was scraped from the [bodybuilding](https://www.bodybuilding.com) website using Beautifulsoup, which is a Python library for pulling data out of HTML and XML files.
