@@ -74,7 +74,7 @@ I split the data to train 80%  and test 20% in Linear Regression Model , then i 
 
 
 •	**Conclusion:**
- the numbers said there is no realationship between the features and the target, but logically there is a strong realationship between them.
+ the numbers said there is no relationship between the features and the target, but logically there is a strong relationship between them.
 
  
 
