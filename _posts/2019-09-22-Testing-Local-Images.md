@@ -50,12 +50,12 @@ I chose bodybuilding because It is one of the Internet's most-trafficked health 
 After cleaning the data and creating the “PPD” column we were able to start analyzing the data. 
 
 
-![Image analysis]({{ site.url }}/images/Screen1)
+![Image analysis]({{ site.url }}/images/Screen1.jpg)
 
 
 Below are some graphs.
 
- ![Image analysis]({{ site.url }}/images/screen2)
+ ![Image analysis]({{ site.url }}/images/screen2.jpg)
 
 
 The heatmap above shows that there is a low correlation between the features and the target.
@@ -63,11 +63,11 @@ The heatmap above shows that there is a low correlation between the features and
 
 Below is a histogram of the ratings. Notice that the graph is left skewed.
 
-![Image analysis]({{ site.url }}/images/screen4)
+![Image analysis]({{ site.url }}/images/screen4.jpg)
 
 A simple but effective way to transform a left skewed graph to become closer to a normal distribution is taking the power transformation.
 
-![Image analysis]({{ site.url }}/images/screen5)
+![Image analysis]({{ site.url }}/images/screen5.jpg)
 
 I split the data to train 80%  and test 20% in Linear Regression Model , then i have R-Squared with 0.07 in the training part ,and 0.08 to the testing part.
 
