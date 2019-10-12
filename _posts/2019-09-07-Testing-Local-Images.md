@@ -76,3 +76,6 @@ There are few things we want to implement to improve the project in the future:
 1.	Automate the process of locating the nearest stations to tech companies.
 2.	Explore a larger scope from our data
 3.	Determine the exact hours of the day where station is crowded the most.
+
+
+
