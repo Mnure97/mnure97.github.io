@@ -10,6 +10,12 @@ title: Using Clustering - unsupervised machine learning for Customer Segmentatio
 
 
 
+
+
+
+
+
+
 •	**The Project Idea:**
 
 
@@ -20,6 +26,10 @@ Because you can’t treat your customers by the same way ,They will find another
 
 
 Here is my job as a data analyst to segmenting the customers to better serve them
+
+
+
+
 
 
 
@@ -42,23 +52,34 @@ The dataset have near to 500,000 rows and 7 columns.
 
 
 
+
+
+
+
+
  The attributes for this data set is shown below:
 
 
 
 1.	**InvoiceNo:** Unique number assigned to each transaction.
 
-2.  **StockCode:** Product code.
+2.  **StockCode:** Product code.
 
-3.	**Quantity:** The quantities of each product per transaction.
+3.	**Quantity:** The quantities of each product per transaction.
 
-4.	**InvoiceDate:** The day and time when each transaction was generated.
+4.	**InvoiceDate:** The day and time when each transaction was generated.
 
 5.	**UnitPrice:** Product price per unit.
 
-6.	**CustomerID:** Unique number for each customer.
+6.  **CustomerID:** Unique number for each customer.
 
-7.  **Country:** the name of the country where each transaction done.
+7.  **Country:** the name of the country where each transaction done.
+
+
+
+
+
+
 
 
 
@@ -66,6 +87,10 @@ The dataset have near to 500,000 rows and 7 columns.
 •	**Data Cleaning:**
 I start with cleaning the dataset by Drop null values ,Convert InvoiceDate  to datetime type , CustomerID and InvoiceID into string, 
 Drop canceled orders and Remove duplicated data.
+
+
+
+
 
 
 
